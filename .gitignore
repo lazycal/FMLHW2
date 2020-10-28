@@ -1,0 +1,20 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+### VisualStudioCode ###
+.vscode/*
+.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+/cv
+/cv-d
+/libsvm-3.24
+*.pdf
+model*
+*.scale.*
